@@ -1,0 +1,20 @@
+{
+  "status_code": 200,
+  "headers": {
+    "date": "Sun, 31 Aug 2025 13:03:30 GMT",
+    "server": "Apache",
+    "strict-transport-security": "max-age=31536000",
+    "expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+    "cache-control": "no-store, no-cache, must-revalidate",
+    "pragma": "no-cache",
+    "content-transfer-encoding": "Binary",
+    "content-type": "application/json",
+    "access-control-allow-origin": "*",
+    "access-control-allow-headers": "X-Requested-With, Content-Type",
+    "connection": "close",
+    "transfer-encoding": "chunked"
+  },
+  "url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/global/time-series/africa/land_ocean/1/12/1850-2025/data.json",
+  "method": "GET",
+  "cached_at": "2025-08-31T22:03:30.780033"
+}

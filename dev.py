@@ -4,7 +4,7 @@ import os
 os.environ['CONNECTOR_NAME'] = 'noaa-climate'
 os.environ['RUN_ID'] = 'test-full-connector'
 os.environ['ENABLE_HTTP_CACHE'] = 'true'  # Cache responses for faster testing
-os.environ['STORAGE_BACKEND'] = 'local'
+os.environ['CATALOG_TYPE'] = 'local'
 os.environ['DATA_DIR'] = 'data'
 
 print("Testing NOAA Climate connector...")

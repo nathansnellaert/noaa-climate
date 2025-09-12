@@ -1,9 +1,0 @@
-{
-  "last_update": "2025-08",
-  "records_processed": 45,
-  "_metadata": {
-    "updated_at": "2025-08-31T22:04:06.206815",
-    "run_id": "test-full-connector",
-    "connector": "noaa-climate"
-  }
-}
